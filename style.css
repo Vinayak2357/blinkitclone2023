@@ -57,9 +57,9 @@ nav{
     display: inline-block;
     margin: 10px;
 }
- ::-webkit-scrollbar{
-   display:none;
-} 
+ /* ::-webkit-scrollbar{
+   display:none; */
+
 .my-card{
     display: inline-block !important;
     width:179px;
